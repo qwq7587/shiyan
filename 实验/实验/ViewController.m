@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"啦啦啦德玛西亚");
+    NSLog(@"啦啦啦撸啊撸啊");
 }
 
 - (void)didReceiveMemoryWarning {
